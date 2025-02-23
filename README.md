@@ -17,3 +17,5 @@ Nota: Si se da click en el botón antes de ingresar un nombre, el sistema mostra
 
 Nota: Cuando se presiona el botón sin haber ingresado al menos un nombre, el sistema solicita se ingresen nombres.
 ![image](https://github.com/user-attachments/assets/5918fec6-d2ca-4ca1-ab2f-750db762c269)
+
+Autor: Francisco Pérez
